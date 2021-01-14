@@ -33,4 +33,20 @@
 .side-navbar{
     margin-right: 500px;
 }
-
+.menu-bar ul li a{
+    font-weight: 700;
+    color:gray;
+    
+}
+.menu-bar ul li a:hover{
+    background-color: green;
+}
+.visit-shoe{
+    background-color: tomato;
+}
+.button{
+    background-color: #2a1e59;
+    color: white; 
+    font-size: small;
+    border-radius: 0.5em;
+}
