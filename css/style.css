@@ -1,0 +1,36 @@
+*{
+    border: 0;
+    margin: 0;
+}
+.shoes-card{
+    border: 0;
+}
+.shoes-card-fotter{
+    background-color: white;
+    border: 0;
+}
+.top-heading1{
+   
+   background-color: brown;
+   color: white;
+   border-radius: 10px;
+
+}
+.second-heading{
+    text-align: center;
+}
+.button1{
+    text-decoration: none;
+    background-color: navy;
+    border:500px;
+    align-items: center;
+}
+.shoes-color{
+    background-color: #cecece;
+    border-radius: 10px;
+    
+}
+.side-navbar{
+    margin-right: 500px;
+}
+
